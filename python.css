@@ -85,7 +85,7 @@ p{
     width: auto;
     background-color: rgb(0, 0, 117);
 }
-#search{
+#search_id{
     margin-top: 5px;
     margin-left: 5px;
     padding: 5px;
@@ -101,7 +101,7 @@ p{
     font-size: 20px;
     color: white;
 }
-ul2{
+#main ul{
     list-style-type: none;
     text-align: center;
     font-size: 20px;
@@ -125,8 +125,13 @@ h1{
     text-align: center;
     color: rgb(48, 48, 247);
 }
-p2{
+.box p{
     font-size: 15px;
+    color: black;
+}
+.box2 p{
+    font-size: 15px;
+    color: black;
 }
 #footer li{
     margin-left: 110px;
